@@ -1,0 +1,15 @@
+.TableContainer{
+
+padding: 20px;
+position: relative;
+top: 150px;
+left: 50px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: fit-content;
+
+
+    
+}

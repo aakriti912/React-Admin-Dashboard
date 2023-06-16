@@ -1,0 +1,31 @@
+.h1{
+    font-size: 30px;
+ display: flex;
+ align-self: flex-start;
+ border-bottom: 2px solid rgb(95, 110, 61);
+
+}
+.updatesection{
+    background-color: aliceblue;
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    position: relative;
+top: 25px;
+right: 10px;
+}
+.updatesection>span{
+    color: black;
+    
+
+
+}
+img{
+    border-radius: 100%;
+    float:left;
+    height: 50px;
+    width: 50px;
+}
